@@ -28,6 +28,9 @@ Using Talkify is straightforward:
 
    - You can click "Play" again to resume speech from where it was paused.
 
+## Snapshot
+![Screenshot (215)](https://github.com/Smoke221/Talkify-Web-based-Speech-Synthesis-App/assets/114225283/51b815a0-d417-43b7-8b63-53cabed4ab26)
+
 
 Feel free to reach out if you have any questions or need further assistance. Enjoy using Talkify!
 
