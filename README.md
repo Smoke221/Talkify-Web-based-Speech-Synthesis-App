@@ -31,6 +31,11 @@ Using Talkify is straightforward:
 ## Snapshot
 ![Screenshot (215)](https://github.com/Smoke221/Talkify-Web-based-Speech-Synthesis-App/assets/114225283/51b815a0-d417-43b7-8b63-53cabed4ab26)
 
+## Setup
+
+    - Clone the Talkify repository to your local machine.
+    - Change your current directory to the Talkify project folder.
+    - Simply open the index.html file in a web browser. You can do this by double-clicking the file or using a web server.
 
 Feel free to reach out if you have any questions or need further assistance. Enjoy using Talkify!
 
